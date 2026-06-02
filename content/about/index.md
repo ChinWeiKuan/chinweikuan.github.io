@@ -3,13 +3,16 @@ title: About
 layout: page
 ---
 
-## Hey, I'm Chin-Wei Kuan
+## Hi, I'm Chin-Wei Kuan.
 
-I'm a software engineer interested in AI agents, backend systems, and developer tooling.
+I am an aspiring computer science researcher focused on ML/DL.
 
-This blog is where I share things I learn, projects I build, and ideas worth writing down.
+Currently, I am expanding my foundation in computer science by tackling real-world problems through Kaggle competitions and open-source projects.
 
-Feel free to reach out — I'm always happy to talk shop.
+What I am looking for:
+I am documenting my technical growth here as I prepare to apply for M.S. programs in Computer Science and pursue potential research collaborations.
+
+Feel free to explore my source code on GitHub or reach out.
 
 - **GitHub:** [chinweikuan](https://github.com/chinweikuan)
 - **Email:** kuan850619123@gmail.com
