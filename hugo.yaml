@@ -50,14 +50,18 @@ params:
     text: Chin-Wei Kuan
 
   homeInfoParams:
-    Title: Hi, I'm Chin-Wei 👋
-    Content: >
-      I write about software engineering, AI agents, and things I'm building.
-      Welcome to my corner of the internet.
+    Title: Hi, I'm Chin-Wei
+    Content: |
+      An aspiring computer science researcher focused on ML/DL.  
+      I am documenting my learning journey here. 🤘
 
   socialIcons:
     - name: github
       url: https://github.com/chinweikuan
+    - name: linkedin
+      url: https://www.linkedin.com/in/chinweikuan
+    - name: whatsapp
+      url: https://wa.me/1234567890
     - name: email
       url: mailto:kuan850619123@gmail.com
 
