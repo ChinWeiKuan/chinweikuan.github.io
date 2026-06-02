@@ -1,0 +1,27 @@
+.share-buttons {
+    list-style: none;
+    flex-direction: row;
+    align-items: center;
+}
+
+.share-buttons li {
+    flex: 0 0 auto;
+}
+
+.share-buttons a {
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+}
+
+.share-buttons a:not(:last-of-type) {
+    margin-inline-end: 0;
+}
+
+.share-buttons svg {
+    display: block;
+    height: 30px;
+    width: 30px;
+    flex-shrink: 0;
+}
