@@ -6,9 +6,9 @@ showtoc: false
 
 ## Hi, I'm Chin-Wei Kuan.
 
-I am an aspiring computer science researcher focused on **ML/DL**.
+I am an aspiring computer science learner focused on **AI/Robotics**.
 
-Currently, I am expanding my foundation in computer science by tackling real-world problems through Kaggle competitions and open-source projects.
+Currently, I am expanding my foundation in computer science by tackling real-world problems.
 
 I am documenting my technical growth here as I prepare to apply for M.S. programs in Computer Science and pursue potential research collaborations.
 
